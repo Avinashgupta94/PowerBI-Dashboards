@@ -33,7 +33,7 @@ It includes the Power BI report files (.pbix), dataset files (.csv, .xlsx), and 
   - Top 5 profitable sub-categories  
 
 **Preview:**  
-![Amazon Dashboard](Amazon_Sales_Dashboard.png)
+![Amazon Dashboard](Images/Amazon_Sales_Dashboard.png)
 
 ---
 
@@ -49,8 +49,7 @@ It includes the Power BI report files (.pbix), dataset files (.csv, .xlsx), and 
   - Orders by day of week  
 
 **Preview:**  
-![Flipkart Dashboard](Flipkart_Sales_dashboard.png)
-
+![Flipkart Dashboard](Images/Flipkart_Sales_dashboard.png)
 ---
 
 ## ⚡ How to Use
